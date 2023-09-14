@@ -15,7 +15,6 @@ This project was created with the primary goal of gaining hands-on experience wi
 - Video Generation Tool (Replicate AI)
 - Conversation Generation Tool (Open AI)
 - Music Generation Tool (Replicate AI)
-- Page loading state
 - Stripe monthly subscription
 ## Demo and Known Issues
 
