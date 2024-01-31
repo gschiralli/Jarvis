@@ -1,5 +1,5 @@
 # Jarvis
-Jarvis is an AI-SAAS project that offers a suite of AI tools.
+Jarvis is an AI-SaaS project that offers a suite of AI tools.
 
 ## Description
 This project was created with the primary goal of gaining hands-on experience with various AI technologies and APIs. It provides a practical playground to explore and experiment with cutting-edge AI tools. Below are the key features of the project:
